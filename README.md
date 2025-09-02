@@ -2,7 +2,7 @@
 
 A simple and responsive Live Weather App built with HTML, CSS, and JavaScript. It allows users to search for current weather information for any city using the OpenWeatherMap API.
 
-![Weather App Screenshot](./assets/screenshot.png) <!-- Replace with actual screenshot path -->
+<!--![Weather App Screenshot](./assets/screenshot.png) <!-- Replace with actual screenshot path -->
 
 
 <!--## 🔗 Live Demo
