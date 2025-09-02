@@ -6,10 +6,10 @@ A simple and responsive Live Weather App built with HTML, CSS, and JavaScript. I
 
 ---
 
-## 🔗 Live Demo
+<!--## 🔗 Live Demo
 
-🌐 [Live Weather App](https://live-weatherr-appp.netlify.app/)  
-<!-- Or GitHub Pages URL: https://your-username.github.io/Weather-App/ -->
+[Live Weather App](https://live-weatherr-appp.netlify.app/)  
+<!-- Or GitHub Pages URL: https://your-username.github.io/Weather-App/ --> -->
 
 ---
 
@@ -31,15 +31,6 @@ A simple and responsive Live Weather App built with HTML, CSS, and JavaScript. I
 
 ---
 
-## ⚙️ How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Mudassirkhn/Live-Weather-App
-   cd Weather-App
 
 
- 🙌 Author
-Mudassir Khan
-📧 mmkhan213@gmail.com
-🔗 https://my-portfolio-jybt.onrender.com/
+
