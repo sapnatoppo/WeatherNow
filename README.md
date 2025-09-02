@@ -4,12 +4,11 @@ A simple and responsive Live Weather App built with HTML, CSS, and JavaScript. I
 
 ![Weather App Screenshot](./assets/screenshot.png) <!-- Replace with actual screenshot path -->
 
----
 
 <!--## 🔗 Live Demo
 
 [Live Weather App](https://live-weatherr-appp.netlify.app/)  
-<!-- Or GitHub Pages URL: https://your-username.github.io/Weather-App/ --> -->
+<!-- Or GitHub Pages URL: https://your-username.github.io/Weather-App/ --> 
 
 ---
 
